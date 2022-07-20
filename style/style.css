@@ -334,6 +334,14 @@ footer{
         margin-left: 0;
        margin-top: 10px;
     }
+    .blogs{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        padding-right: 0;
+        margin-top: 10px;
+        padding-top: 0;
+    }
     .blog{
         width: 100%;
     }
